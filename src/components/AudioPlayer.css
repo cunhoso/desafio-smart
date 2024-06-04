@@ -1,0 +1,31 @@
+.audio-player {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .audio-controls {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .audio-player button {
+    background-color: #ffe81f;
+    border: none;
+    border-radius: 5px;
+    color: #000;
+    cursor: pointer;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+  }
+  
+  .audio-player button:hover {
+    background-color: #ffd700;
+  }
+  
+  .audio-player input[type="range"] {
+    width: 100px;
+    cursor: pointer;
+  }  

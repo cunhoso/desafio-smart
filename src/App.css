@@ -92,6 +92,8 @@ input[type="text"]::placeholder {
 footer {
   position: fixed;
   bottom: 0;
+  left: 0;      
+  right: 0;     
   width: 100%;
   background-color: #252525;
   padding: 15px; 
@@ -103,4 +105,8 @@ footer a {
   text-decoration: none;
   color: #f00;
   margin-right: 10px;
+}
+
+audio {
+  display: none; 
 }

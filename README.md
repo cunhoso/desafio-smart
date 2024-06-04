@@ -7,6 +7,7 @@ Este é um projeto React que lista personagens do universo Star Wars utilizando 
 - Listar personagens de Star Wars
 - Filtrar personagens pelo nome
 - Paginação para navegar entre as páginas de resultados
+- Música tema no Background
 
 ## Pré-requisitos
 
